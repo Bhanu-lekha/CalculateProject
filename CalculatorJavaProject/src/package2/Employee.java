@@ -2,5 +2,5 @@ package package2;
 
 public abstract class Employee {
 	// employee file
-	public abstract void display();
+	public abstract void displayEmployeeDetails();
 }

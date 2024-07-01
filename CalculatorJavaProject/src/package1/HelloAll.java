@@ -7,6 +7,7 @@ public class HelloAll {
 		int a=10;
 		int b=9;
 		System.out.println(a+b);
+		// hello
 		
 	}
 
